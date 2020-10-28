@@ -1,0 +1,7 @@
+C:\Users\Bruno\source\repos\ArchivoTxt\ArchivoTxt\bin\Debug\ArchivoTxt.exe.config
+C:\Users\Bruno\source\repos\ArchivoTxt\ArchivoTxt\bin\Debug\ArchivoTxt.exe
+C:\Users\Bruno\source\repos\ArchivoTxt\ArchivoTxt\bin\Debug\ArchivoTxt.pdb
+C:\Users\Bruno\source\repos\ArchivoTxt\ArchivoTxt\obj\Debug\ArchivoTxt.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\ArchivoTxt\ArchivoTxt\obj\Debug\ArchivoTxt.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\ArchivoTxt\ArchivoTxt\obj\Debug\ArchivoTxt.exe
+C:\Users\Bruno\source\repos\ArchivoTxt\ArchivoTxt\obj\Debug\ArchivoTxt.pdb

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfAnimal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Animal xsi:type="PatoDelCampo"><nombre>Lucas</nombre><pesoEnKg>2</pesoEnKg></Animal><Animal xsi:type="PalomaDeCiudad"><nombre>Eze</nombre><pesoEnKg>2</pesoEnKg><color>Blanca</color></Animal></ArrayOfAnimal>

@@ -1,0 +1,7 @@
+C:\Users\Bruno\source\repos\ArchivoTxt\SerializarHerencia\bin\Debug\SerializarHerencia.exe.config
+C:\Users\Bruno\source\repos\ArchivoTxt\SerializarHerencia\bin\Debug\SerializarHerencia.exe
+C:\Users\Bruno\source\repos\ArchivoTxt\SerializarHerencia\bin\Debug\SerializarHerencia.pdb
+C:\Users\Bruno\source\repos\ArchivoTxt\SerializarHerencia\obj\Debug\SerializarHerencia.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\ArchivoTxt\SerializarHerencia\obj\Debug\SerializarHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\ArchivoTxt\SerializarHerencia\obj\Debug\SerializarHerencia.exe
+C:\Users\Bruno\source\repos\ArchivoTxt\SerializarHerencia\obj\Debug\SerializarHerencia.pdb
